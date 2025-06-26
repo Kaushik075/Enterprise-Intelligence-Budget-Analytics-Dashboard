@@ -63,6 +63,17 @@ Executive Homepage – Summary KPIs and click-to-navigate UX
 
 **OUTPUT**
 
+![Image](https://github.com/user-attachments/assets/11b8e269-9632-4373-9173-7e7beae04204)
+![Image](https://github.com/user-attachments/assets/30ac0bdd-ba18-4050-b307-9e5c7231ea0f)
+![Image](https://github.com/user-attachments/assets/0922a488-2120-44fa-bf47-506f8aef0ef4)
+![Image](https://github.com/user-attachments/assets/068f7d60-521b-4cf0-91ad-85b79a69d517)
+![Image](https://github.com/user-attachments/assets/76b1b143-b9e6-4ea2-add3-af4c01586f97)
+![Image](https://github.com/user-attachments/assets/b0762e7f-7c67-426e-9483-ddcfa48d7d49)
+![Image](https://github.com/user-attachments/assets/a0c1b138-9454-4672-82d4-e39dbaaab558)
+![Image](https://github.com/user-attachments/assets/4ca02bff-53c6-4ef2-a87d-30c963352d07)
+![Image](https://github.com/user-attachments/assets/46887fce-4265-4d83-b628-b63ecb9337ac)
+![Image](https://github.com/user-attachments/assets/c239c47d-b838-47b6-bf67-cfd62e13fb7d)
+![Image](https://github.com/user-attachments/assets/d09d78c6-a825-4cc2-993a-d6dc338cebbd)
 
 
 

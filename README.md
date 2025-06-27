@@ -63,17 +63,17 @@ Executive Homepage – Summary KPIs and click-to-navigate UX
 
 **OUTPUT**
 
-![Image](https://github.com/user-attachments/assets/4a464b63-d202-45ba-8a86-7cd958bc57eb)
-![Image](https://github.com/user-attachments/assets/0ce3c7a6-1c56-4d55-a699-7739df9038e3)
-![Image](https://github.com/user-attachments/assets/37afdf39-e015-40df-ae65-4351682db7fd)
-![Image](https://github.com/user-attachments/assets/43cfd4bd-5bc6-448a-889f-8a3dde4b9cfc)
-![Image](https://github.com/user-attachments/assets/bb6f35b0-6d32-454d-a099-2b6039c08a25)
-![Image](https://github.com/user-attachments/assets/3ad5fc2a-cf1f-4f27-95ac-4bea5b89c453)
-![Image](https://github.com/user-attachments/assets/39794756-2a99-49bd-a8ee-12d1ca726064)
-![Image](https://github.com/user-attachments/assets/7f901688-bd23-4ed3-be1c-9df20bd177bf)
-![Image](https://github.com/user-attachments/assets/3c183467-d096-4b5c-b667-c6678239611e)
-![Image](https://github.com/user-attachments/assets/69177523-6f84-49bc-aafb-1b7a541c144e)
-![Image](https://github.com/user-attachments/assets/1209f989-96fa-4cbb-8896-8aab811fb3c3)
+![Image](https://github.com/user-attachments/assets/42458c78-19a3-42c1-b0df-035c6f9e565b)
+![Image](https://github.com/user-attachments/assets/92e78cdb-481a-40a5-83a4-47395d17d9d2)
+![Image](https://github.com/user-attachments/assets/ab768d94-80f3-49ec-8ad8-3813a6889df9)
+![Image](https://github.com/user-attachments/assets/b0f5bbe3-4e06-48ab-8bce-3eb3f353cabd)
+![Image](https://github.com/user-attachments/assets/34ed89c9-4885-4cfa-ad4b-02ddfbf45ea2)
+![Image](https://github.com/user-attachments/assets/9c7aaed9-afb5-4d0b-a7d2-6a40cdde5e0f)
+![Image](https://github.com/user-attachments/assets/dfc90b6e-5aad-48fd-b04d-98118a355b02)
+![Image](https://github.com/user-attachments/assets/1a6ca593-542d-41c9-9902-8017d41623e4)
+![Image](https://github.com/user-attachments/assets/c40519a2-f3b2-4fb9-bd02-20cf8f01b794)
+![Image](https://github.com/user-attachments/assets/17c2f356-e2d2-4cf7-8314-1aecb8f75a7c)
+![Image](https://github.com/user-attachments/assets/d11f049f-8b10-4cb4-bc61-6786877b80f3)
 
 
 

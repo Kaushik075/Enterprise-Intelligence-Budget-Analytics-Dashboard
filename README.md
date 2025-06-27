@@ -62,20 +62,17 @@ Executive Homepage – Summary KPIs and click-to-navigate UX
 🚀 35–45% business growth with real-time decision data
 
 **OUTPUT**
-
-![Image](https://github.com/user-attachments/assets/42458c78-19a3-42c1-b0df-035c6f9e565b)
-![Image](https://github.com/user-attachments/assets/92e78cdb-481a-40a5-83a4-47395d17d9d2)
-![Image](https://github.com/user-attachments/assets/ab768d94-80f3-49ec-8ad8-3813a6889df9)
-![Image](https://github.com/user-attachments/assets/b0f5bbe3-4e06-48ab-8bce-3eb3f353cabd)
-![Image](https://github.com/user-attachments/assets/34ed89c9-4885-4cfa-ad4b-02ddfbf45ea2)
-![Image](https://github.com/user-attachments/assets/9c7aaed9-afb5-4d0b-a7d2-6a40cdde5e0f)
-![Image](https://github.com/user-attachments/assets/dfc90b6e-5aad-48fd-b04d-98118a355b02)
-![Image](https://github.com/user-attachments/assets/1a6ca593-542d-41c9-9902-8017d41623e4)
-![Image](https://github.com/user-attachments/assets/c40519a2-f3b2-4fb9-bd02-20cf8f01b794)
-![Image](https://github.com/user-attachments/assets/17c2f356-e2d2-4cf7-8314-1aecb8f75a7c)
-![Image](https://github.com/user-attachments/assets/d11f049f-8b10-4cb4-bc61-6786877b80f3)
-
-
+![Image](https://github.com/user-attachments/assets/6fc464bb-5fc3-4e95-aefc-740f7e404db2)
+![Image](https://github.com/user-attachments/assets/5ab61b15-6723-4c9d-9c00-a14d997d97d5)
+![Image](https://github.com/user-attachments/assets/79626df6-2617-4fab-a91b-fb20efd97cb1)
+![Image](https://github.com/user-attachments/assets/3de4816f-0726-4af0-bdda-95d24676d59e)
+![Image](https://github.com/user-attachments/assets/d90b1225-09a0-45fb-b617-caa15c38a51e)
+![Image](https://github.com/user-attachments/assets/2b1be9a2-a5d9-4c58-b452-0b9d3ca97bac)
+![Image](https://github.com/user-attachments/assets/1f1d948c-eabd-4f6f-a5f5-c845d1c9c68b)
+![Image](https://github.com/user-attachments/assets/9bee2a5d-222a-4823-95f4-9275908d76b6)
+![Image](https://github.com/user-attachments/assets/39006f1f-ca49-45e8-957c-ac709fa8cf76)
+![Image](https://github.com/user-attachments/assets/081255db-6874-412a-bfb4-195ab1af8097)
+![Image](https://github.com/user-attachments/assets/2f5eb2d5-cd44-4e25-a351-8349705ec924)
 
 
 

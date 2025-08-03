@@ -62,7 +62,7 @@ Executive Homepage – Summary KPIs and click-to-navigate UX
 🚀 35–45% business growth with real-time decision data
 
 **OUTPUT**
-![Image](https://github.com/user-attachments/assets/6fc464bb-5fc3-4e95-aefc-740f7e404db2)
+img width="892" height="498" alt="Image" src="https://github.com/user-attachments/assets/a817a4fe-1e8d-4293-9830-3eb926b1573e" />
 ![Image](https://github.com/user-attachments/assets/5ab61b15-6723-4c9d-9c00-a14d997d97d5)
 ![Image](https://github.com/user-attachments/assets/79626df6-2617-4fab-a91b-fb20efd97cb1)
 ![Image](https://github.com/user-attachments/assets/3de4816f-0726-4af0-bdda-95d24676d59e)

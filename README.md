@@ -66,4 +66,39 @@ Finance and department heads cannot see which departments are exceeding budgets,
 •	Revenue vs Net Income Over Time: Trend line showing revenue stability and net income tracking from 2021-2024
 •	Quarterly Performance: Q1-Q4 breakdown across fiscal years with growth trajectory
 
+---
+
+**Findings & Business Impact**
+
+**Finding 1:**
+
+8.4% Organization-Wide Budget Overspend ($12M Variance)
+All 6 departments except IT exceeded their allocated budgets, with collective overspend of $12M against $149M budget allocation. Marketing and Finance are primary culprits (113-114% utilization), requiring immediate cost control intervention and departmental accountability measures.
+
+**Finding 2:**
+
+129.1% Cost-to-Revenue Ratio (Unsustainable Spending)
+Organization spends $1.29 for every $1.00 in revenue generated, indicating operational spending significantly exceeds revenue capacity and threatens profitability. Cost reduction targets of 13% minimum required to achieve sustainability (129.1% → 115% ratio).
+
+**Finding 3:**
+
+Marketing Shows Highest Spend ($47M) with Reasonable ROI (93.4%)
+Despite $47M budget allocation (highest of all departments), Marketing campaigns deliver 93.4% average ROI with 4.9% conversion efficiency. Suggests marketing investment justified, but overall departmental overhead may be inflated beyond direct campaign costs.
+
+**Finding 4:**
+
+IT Department Shows Best Cost Control (91.5% Utilization)
+IT department operates at 91.5% budget utilization—only department under budget and demonstrating disciplined spending. Offers replicable cost management model for other departments to achieve similar efficiency.
+
+**Finding 5:**
+
+Monthly Spending Shows Clear Seasonal Pattern
+Spending peaks March-May ($8-11M monthly), suggesting seasonal business cycles or project-driven spending. Understanding these patterns enables better budget forecasting and seasonal cost planning for future periods.
+
+**Finding 6:**
+
+Revenue Trend Justifies Business Expansion (2021-2024 Growth)
+Historical revenue data shows consistent upward trajectory from 2021-2024, suggesting business is growing and may justify some spending increases. However, spending growth (108.4% utilization) outpacing revenue growth (positive but slower), creating widening gap.
+
+
 

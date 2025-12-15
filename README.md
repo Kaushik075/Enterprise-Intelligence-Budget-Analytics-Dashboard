@@ -1,66 +1,15 @@
 # Enterprise-Intelligence-Budget-Analytics-Dashboard
 **DESCRIPTION**
-A full-cycle, 10-page enterprise reporting solution built with Power BI
-Transformed fragmented datasets and real-time financial APIs into a unified, decision-grade analytics tool for enterprise budgeting and performance tracking.
 
-🎯 Business Challenge
-Modern enterprises face challenges like:
+This GitHub repository contains a complete Budget Analytics Dashboard built with Power BI Desktop, powered by a Python data generation pipeline. The project demonstrates end-to-end analytics capabilities including data generation, visualization, and business intelligence without requiring database infrastructure.
 
-Scattered data across departments
+**Quick Facts**
+**Dashboard Pages**: 3 interactive Power BI dashboards covering Budget Summary, Department Spend & Cost, and Revenue/ROI Analysis
 
-Delayed or manual reporting
+**Data Volume**: 50,000+ records generated via Python pipeline
 
-Budget overspending and forecasting gaps
+**Technology Stack**: Power BI Desktop, Python (Faker, Pandas), CSV data exports
 
-Lack of visual storytelling in dashboards
+**Key Metrics**: $149M Total Budget, $161M Actual Spend, 108.4% Budget Utilization, 93.4% Average ROI
 
-These gaps slow decision-making, reduce ROI, and create misalignment across functions.
-
-💡 The Solution
-This project solves these challenges through a smart Enterprise Intelligence Dashboard covering 10 core business domains:
-
-Budget Summary – Variance alerts, utilization %, overspend detection
-
-Sales Performance – Conversion rate, cost per lead, region-wise sales
-
-Marketing Efficiency – CTR, ROAS, top campaigns, engagement insights
-
-Department Spend – Over-budget flags, trendlines, spend heatmaps
-
-Forecast & Variance – Accuracy scoring, deviation insights
-
-Financial Overview – EBITDA, ROE, Net Income, Current Ratios
-
-Campaign ROI – ROI% breakdowns, top campaigns by returns
-
-Revenue Trends – Monthly revenue, growth %, target tracking
-
-Expense Tracking – Vendor spend, category-wise drilldowns
-
-Executive Homepage – Summary KPIs and click-to-navigate UX
-
-📊 Key Highlights
-📌 Budget Utilization: 108.4% used | Overspend alerts triggered
-
-📈 Sales: $125M revenue | 6% conversion | $14.14 CPL
-
-📉 Dept. Cost: Avg $26.8M | 129.1% spend vs budget
-
-📢 Marketing ROI: 846K total ROI | 8.41% CTR
-
-🏢 Over-Budget Depts: 6 flagged | Sales highest at $161M
-
-💵 Total Revenue: $2T | 29.4% margin | ₹595B EBITDA
-
-🔮 Forecasting: 91.7% accuracy | 61.3% deviation flagged
-
-✅ Business Impact
-💰 15–20% cost savings through better spend tracking
-
-📈 25–35% ROI increase via marketing optimization
-
-🚀 35–45% business growth with real-time decision data
-
-**OUTPUT**
-
-<img width="1098" height="679" alt="Image" src="https://github.com/user-attachments/assets/67c0d67a-38f6-47b2-af55-8c565a99c00d" />
+**Analysis Depth**: Variance analysis, trend forecasting, department performance, campaign ROI comparison

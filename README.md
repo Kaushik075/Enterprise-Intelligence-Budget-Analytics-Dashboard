@@ -73,6 +73,7 @@ Finance and department heads cannot see which departments are exceeding budgets,
 
 <img width="1324" height="808" alt="Image" src="https://github.com/user-attachments/assets/72fba4e4-0861-4b3f-8e1b-6fbc34b3a0f7" />
 
+---
 
 **Findings & Business Impact**
 
@@ -106,5 +107,6 @@ Spending peaks March-May ($8-11M monthly), suggesting seasonal business cycles o
 Revenue Trend Justifies Business Expansion (2021-2024 Growth)
 Historical revenue data shows consistent upward trajectory from 2021-2024, suggesting business is growing and may justify some spending increases. However, spending growth (108.4% utilization) outpacing revenue growth (positive but slower), creating widening gap.
 
+<img width="1329" height="812" alt="Image" src="https://github.com/user-attachments/assets/8d699a0e-5deb-4453-b742-33f6fe522cb3" />
 
 ---

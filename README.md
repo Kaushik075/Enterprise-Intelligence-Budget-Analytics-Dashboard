@@ -70,7 +70,9 @@ Finance and department heads cannot see which departments are exceeding budgets,
 •	Quarterly Performance: Q1-Q4 breakdown across fiscal years with growth trajectory
 
 ---
+
 <img width="1324" height="808" alt="Image" src="https://github.com/user-attachments/assets/72fba4e4-0861-4b3f-8e1b-6fbc34b3a0f7" />
+
 
 **Findings & Business Impact**
 

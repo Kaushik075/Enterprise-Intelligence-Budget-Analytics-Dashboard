@@ -1,4 +1,7 @@
 # Enterprise-Intelligence-Budget-Analytics-Dashboard
+
+<img width="1328" height="807" alt="Image" src="https://github.com/user-attachments/assets/5e4fa3f3-9ccf-4d5c-a578-a57e6be1f3b0" />
+
 **DESCRIPTION**
 
 This project contains a complete Budget Analytics Dashboard built with Power BI Desktop, powered by a Python data generation pipeline. The project demonstrates end-to-end analytics capabilities including data generation, visualization, and business intelligence without requiring database infrastructure.
